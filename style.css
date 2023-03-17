@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 0;
+    margin-right: 0;
+
+}
+.logo{
+    width: 70px;
+    height: 100px;
+}
+
+.usercamille{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: -40px;
+}
+
+hr{
+    margin-top: -20px;
+}
+
+.choix{
+    background-color: #54F1A6;
+    max-width: 225px;
+    max-height: 30px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+}
+.grandrectangle{
+    width: 355px;
+    height: 650px;
+    border: rgb(52, 51, 51) solid;
+    border-radius: 8px;
+    background-color: transparent;
+    margin-top: 30px;
+    margin-left: 17px;
+    box-shadow: 10px 5px 5px rgb(222, 221, 221);
+}
+
+.column{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.grandrectangle p {
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+}
+.burger{
+    background-image: url("img/burger.png") ;
+    background-blend-mode:screen;
+    filter: brightness(85%) ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.burger>span{
+    color: white;
+    font-weight:400;
+}
+.sushi{
+    background-image: url("img/sushis.png") ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    filter: brightness(85%);
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.sushi>span{
+    color: white;
+    font-weight:400;
+}
+.couscous{
+    background-image: url("img/couscous2.png") ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    filter: brightness(85%);
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.couscous>span{
+    color: white;
+    font-weight:400;
+}
+.salade{
+    background-image: url("img/salades.png") ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    filter: brightness(85%);
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.salade>span{
+    color: white;
+    font-weight:400;
+}
+.pizza{
+    background-image: url("img/pizzas.png") ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    filter: brightness(85%);
+    margin-bottom: 15px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pizza>span{
+    color: white;
+    font-weight:400;
+}
+.pates{
+    background-image: url("img/pâtes.png") ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    filter: brightness(85%);
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.pates>span{
+    color: white;
+    font-weight:400;
+}
+.couscous2{
+    background-image: url("img/couscous2.png") ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    filter: brightness(85%);
+    margin-bottom: 15px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.couscous2>span{
+    color: white;
+    font-weight:400;
+}
+.salade2{
+    background-image: url("img/salades.png") ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    filter: brightness(85%);
+    margin-bottom: 15px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.salade2>span{
+    color: white;
+    font-weight:400;
+}
+.pizza2{
+    background-image: url("img/pizzas.png") ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    filter: brightness(85%);
+    margin-bottom: 15px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pizza2>span{
+    color: white;
+    font-weight:400;
+}
+.pates2{
+    background-image: url("img/pâtes.png") ;
+    width: 143px;
+    height: 82px;
+    background-size: 100%;
+    border-radius: 5%;
+    filter: brightness(85%);
+    margin-bottom: 15px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pates2>span{
+    color: white;
+    font-weight:400;
+}
+
+.valider{
+    border-radius: 5px;
+    background-color: #FFBB0D;
+    padding: 5px;
+    margin-top: 10px;
+    max-width: 151px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
