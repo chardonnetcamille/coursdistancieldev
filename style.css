@@ -111,7 +111,7 @@ hr{
 .salade{
     background-image: url("img/salades.png") ;
     width: 143px;
-    height: 82px;
+    height: 82px;  
     background-size: 100%;
     border-radius: 5%;
     filter: brightness(85%);
